@@ -10,7 +10,13 @@ namespace calculadora
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Word!!");
+            double n1, n2, resulado = 0;
+            string operador;
+
+            Console.WriteLine("Digite o numero: ");
+            n1 = Convert.ToDouble(Console.ReadLine());
+
+            Console.WriteLine("Seu numero é: " + n1);
         }
     }
 }

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcularNota", "CalcularNota\CalcularNota.csproj", "{42107372-BC07-411D-BDA9-510E5B324FE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42107372-BC07-411D-BDA9-510E5B324FE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42107372-BC07-411D-BDA9-510E5B324FE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42107372-BC07-411D-BDA9-510E5B324FE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42107372-BC07-411D-BDA9-510E5B324FE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {314C9D55-641D-4BAD-B074-B274B644B340}
+	EndGlobalSection
+EndGlobal
